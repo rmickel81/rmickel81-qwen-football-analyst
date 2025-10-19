@@ -1,0 +1,7 @@
+minute,player,action,outcome,zone,x,y
+12,Vinicius,pass,complete,own_half,30,45
+12,Camavinga,reception,success,own_half,40,50
+13,Camavinga,pass,complete,opponent_half,60,55
+13,Bellingham,reception,success,opponent_half,70,60
+14,Bellingham,shot,goal,opponent_box,85,50
+22,Rodrygo,loss,turnover,opponent_half,65,40
