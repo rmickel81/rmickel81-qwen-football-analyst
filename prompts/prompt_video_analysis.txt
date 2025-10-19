@@ -1,0 +1,7 @@
+Analiza este video de fútbol. Describe con precisión:
+- La formación defensiva del equipo local
+- Zonas del campo donde se pierde el balón con más frecuencia
+- Si el mediocentro rival rompe líneas con movimientos entre líneas
+- Nivel de presión alta (¿sí/no? ¿efectiva?)
+
+Sé técnico, conciso y basado en lo que ves. No inventes.
