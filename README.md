@@ -1,6 +1,6 @@
 # rmickel81-qwen-football-analyst
 Using Qwen for football analysis
-# 🧠⚽ rmickel-qwen-football-analyst  
+# 🧠⚽ rmickel81-qwen-football-analyst  
 **Genera informes tácticos de fútbol con Qwen —en español, inglés y chino— usando IA multimodal.**
 
 > *"No automatizo el análisis. Lo aumento."*  
@@ -24,5 +24,5 @@ Creado por **Roberto Mickel** como parte de mi misión: conectar Europa, Latinoa
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/rmickel-qwen-football-analyst.git
+   git clone https://github.com/tu-usuario/rmickel81-qwen-football-analyst.git
    cd rmickel-qwen-football-analyst
