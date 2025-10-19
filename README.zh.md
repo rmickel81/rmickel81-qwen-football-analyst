@@ -1,4 +1,4 @@
-# 🧠⚽ rmickel-qwen-football-analyst  
+# 🧠⚽ rmickel81-qwen-football-analyst  
 **使用 Qwen 多模态 AI，以西班牙语、英语和中文生成足球战术报告。**
 
 > *“我不是自动化分析，而是增强分析。”*  
@@ -22,5 +22,5 @@
 
 1. **克隆仓库**
    ```bash
-   git clone https://github.com/your-username/rmickel-qwen-football-analyst.git
+   git clone https://github.com/your-username/rmickel81-qwen-football-analyst.git
    cd rmickel-qwen-football-analyst
