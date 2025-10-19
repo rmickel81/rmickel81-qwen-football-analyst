@@ -1,4 +1,4 @@
-# 🧠⚽ rmickel-qwen-football-analyst  
+# 🧠⚽ rmickel81-qwen-football-analyst  
 **Generate football tactical reports with Qwen — in Spanish, English, and Chinese — using multimodal AI.**
 
 > *"I don't automate analysis. I augment it."*  
@@ -22,5 +22,5 @@ Created by **Roberto Mickel** as part of my mission: connecting Europe, Latin Am
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/rmickel-qwen-football-analyst.git
+   git clone https://github.com/your-username/rmickel81-qwen-football-analyst.git
    cd rmickel-qwen-football-analyst
