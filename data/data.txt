@@ -1,0 +1,21 @@
+Este es el lugar donde irían los datos que exportas de herramientas como Wyscout, StatsBomb, o tu propio sistema de tracking. Generalmente usaremos formato CSV, JSON o Parquet
+
+Archivos de eventos de partidos (pases, tiros, duelos, etc.)
+Estadísticas por jugador o equipo
+Datos históricos para enriquecer el análisis con RAG
+
+----
+
+This is where data exported from tools like Wyscout, StatsBomb, or your own tracking system would go. We'll generally use CSV, JSON, or Parquet formats.
+
+Match event files (passes, shots, duels, etc.)
+Statistics by player or team
+Historical data to enhance your analysis with RAG
+
+----
+
+这是从 Wyscout、StatsBomb 等工具或您自己的追踪系统导出的数据的存放位置。我们通常使用 CSV、JSON 或 Parquet 格式。
+
+比赛事件文件（传球、射门、决斗等）
+按球员或球队统计
+历史数据，用于增强您使用 RAG 的分析能力
