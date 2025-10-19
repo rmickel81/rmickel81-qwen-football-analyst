@@ -1,0 +1,26 @@
+1) ¿Por qué usamos openai para acceder a Qwen (un modelo chino de Alibaba)?
+Porque Alibaba Cloud diseñó su API para ser compatible con la API de OpenAI.
+
+Esto significa que, aunque estés usando Qwen (no GPT), puedes interactuar con él usando el mismo código que usarías para ChatGPT.
+
+🧩 Analogía simple
+Imagina que:
+
+OpenAI (GPT) es como un enchufe estándar en Estados Unidos (tipo A).
+Alibaba Cloud (Qwen) fabricó un adaptador que convierte su enchufe chino en uno tipo A.
+Entonces, tú usas el mismo cable (tu código con la librería openai), pero lo conectas a una fuente de energía diferente (Qwen en lugar de GPT).
+
+💻 ¿Cómo se ve en el código?
+
+✅ Mismo código (openai),
+✅ Misma sintaxis,
+❌ Distinto proveedor y modelo.
+
+🎯 ¿Por qué Alibaba hizo esto?
+Adopción más rápida: Los desarrolladores ya conocen la API de OpenAI. No tienen que aprender una nueva.
+Migración fácil: Si hoy usas GPT y mañana quieres probar Qwen, solo cambias la api_key y la base_url.
+Ecosistema existente: Herramientas como LangChain, LlamaIndex o tus propios scripts funcionan sin cambios.
+📦 Entonces, ¿por qué instalamos openai?
+Porque es la librería oficial de Python para la API de OpenAI, y como la API de Qwen es compatible, funciona perfectamente.
+
+No estás usando GPT. Estás usando la librería openai como un "control remoto universal" para hablar con Qwen.
