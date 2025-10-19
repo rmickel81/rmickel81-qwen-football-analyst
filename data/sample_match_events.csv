@@ -5,3 +5,10 @@ minute,player,action,outcome,zone,x,y
 13,Bellingham,reception,success,opponent_half,70,60
 14,Bellingham,shot,goal,opponent_box,85,50
 22,Rodrygo,loss,turnover,opponent_half,65,40
+
+
+💡 Convención: 
+
+x=0 → línea de fondo local
+x=100 → línea de fondo rival
+y=0 y y=100 → bandas
