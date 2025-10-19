@@ -4,7 +4,7 @@
 > *"No automatizo el análisis. Lo aumento con IA china de vanguardia."*  
 > — **Roberto Mickel**, Analista de Fútbol & Especialista en IA
 
-Este repositorio es un **sistema integral de análisis futbolístico** que combina **visión por computadora, razonamiento táctico, simulación y visualización** usando la familia de modelos **Qwen** de Alibaba Cloud.  
+Este repositorio es un **sistema integral de análisis futbolístico** que combina **visión por ordenador, razonamiento táctico, simulación y visualización** usando la familia de modelos **Qwen** de Alibaba Cloud.  
 Diseñado por un analista, para analistas.
 
 ---
