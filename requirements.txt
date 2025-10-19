@@ -1,0 +1,23 @@
+# Cliente de API para Qwen (compatible con OpenAI)
+openai>=1.30.0
+
+# Procesamiento de datos
+pandas>=2.0.0
+
+# Gestión de variables de entorno
+python-dotenv>=1.0.0
+
+# Visualización táctica
+matplotlib>=3.5.0
+seaborn>=0.11.0
+numpy>=1.21.0
+
+# (Opcional) Si en el futuro usas procesamiento de video local
+# opencv-python>=4.8.0
+
+Ejecuta en tu terminal: 
+pip install -r requirements.txt
+
+🧪 Verificación rápida
+Después de instalar, puedes verificar que todo funciona con:
+python -c "import openai, pandas, matplotlib, seaborn, numpy; print('✅ Todas las dependencias instaladas correctamente')"
