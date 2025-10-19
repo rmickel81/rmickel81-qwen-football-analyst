@@ -1,0 +1,3 @@
+Aquí debe estar el fichero de video del partido a analizar. Formato .mp4
+The video file of the match you want to analyze should be located here. .mp4 format.
+您要分析的比赛的视频文件应该位于此处。.mp4 格式。
